@@ -5,7 +5,7 @@ A fault-tolerant web tier on AWS, built entirely with **Terraform**. An **Applic
 ![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC) ![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900) ![EC2](https://img.shields.io/badge/Compute-EC2%20ASG-FF9900) ![CloudWatch](https://img.shields.io/badge/Monitoring-CloudWatch-FF4F8B)
 
 ---
-
+ 
 ## Architecture
 
 ```mermaid
